@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenuScene.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/QuestionnaireScene.unity
+    guid: 31fedfacbffbd814cbde48979fdc053c
+  - enabled: 1
+    path: Assets/Games/Snake/Assets/Scenes/SnakeGame.unity
+    guid: 73fd16e6a9d38eb4ba2e2bca7f2ec15d
+  - enabled: 1
+    path: Assets/Games/Whacka mole/Assets/Scenes/WhackAMole.unity
+    guid: 62bbcd761f7c31e44b70edb113f6cc26
+  - enabled: 1
+    path: Assets/Games/Tictactoe/TicTacToe.unity
+    guid: b6af0ca556bd7bd48849bf015f35bd7f
+  - enabled: 1
+    path: Assets/Games/Memory/Assets/Scenes/MemoryPuzzle.unity
+    guid: 96979f1cb5b204b4fa46825ec6b427ab
+  - enabled: 1
+    path: Assets/ResultScene.unity
+    guid: 1537e1c072483b54b838ecded1b08302
+  - enabled: 0
+    path: Assets/QuizScene.unity
+    guid: dd62f57ced4b32e4596934e8db02e912
+  m_configObjects: {}
